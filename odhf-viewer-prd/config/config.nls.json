@@ -1,0 +1,54 @@
+{
+    "Map_Not_Available": {
+        "en": "n/a",
+        "fr": "n.d."
+    },
+    "Maps_Header": {
+        "en": "Select a Map",
+        "fr": "Sélectionnez une carte"
+    },
+    "Maps_Description": {
+        "en": "Move your cursor over an item in the list to show the description.",
+        "fr": "Déplacer votre curseur au dessus d'un élément de la liste pour afficher la description."
+    },
+	"Home_Title" : {
+		"en" : "Zoom to Canada",
+		"fr" : "Zoomer au Canada"
+	},
+    "Bookmarks_Title": {
+        "en": "Go to census metropolitan area",
+        "fr": "Aller à une région métropolitaine de recensement"
+    },
+    "Bookmarks_Header": {
+        "en": "Go to census metropolitan area",
+        "fr": "Aller à une région métropolitaine de recensement"
+    },
+    "Bookmarks_Description": {
+        "en": "Select an item from the list to go to the bookmark.",
+        "fr": "Sélectionner un élément de la liste pour aller à celui-ci."
+    },
+    "Download_Title": {
+        "en": "Download data (forthcoming)",
+        "fr": "Télécharger les données (à venir)"
+    },
+    "Search_Placeholder": {
+        "en": "Enter CSD name or ID ...",
+        "fr": "Saisir le nom ou l'identifiant du DSR..."
+    },
+    "Search_Title": {
+        "en": "Results will show after three characters are entered.",
+        "fr": "Les résultats apparaîtront après avoir entré trois caractères."
+    },
+	"FullScreen_Title" : {
+		"en" : "Show in fullscreen",
+		"fr" : "Afficher en plein écran"
+	},
+	"Navigation_ZoomIn_Title" : {
+		"en" : "Zoom in",
+		"fr" : "Zoom avant"
+	},
+	"Navigation_ZoomOut_Title" : {
+		"en" : "Zoom out",
+		"fr" : "Zoom arrière"
+	}
+}

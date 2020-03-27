@@ -1,0 +1,113 @@
+{
+    "id": "odhf",
+    "style": "mapbox://styles/deil-leid/ck897mgfo0x0k1jlnm0kjq725",
+    "layers": [{
+            "id": "odhf"
+        }
+    ],
+    "title": {
+        "en": "Open Database of Health Facilities (ODHF)",
+        "fr": "Base de Données Ouvertes des Établissement de Santé"
+    },
+	"subtitle" : {
+		"en" : "Version 1.0",
+		"fr" : "Version 1.0"
+	},
+    "description": null,
+    "legend": [{
+            "color": [255,0,0],
+            "label": {
+                "en": "Acute care hospital",
+                "fr": "Hôpital de soins intensifs"
+            },
+            "value": ["==", ["get", "Type"], "4"]
+        }, {
+            "color": [255,255,179],
+            "label": {
+                "en": "Outpatient Health Services",
+                "fr": "Services de santé ambulatoire"
+            },
+            "value": ["==", ["get", "Type"], "2"]
+        }, {
+            "color": [190,186,218],
+            "label": {
+                "en": "Residential care",
+                "fr": "Soins résidentiels"
+            },
+            "value": ["==", ["get", "Type"], "1"]
+        }, {
+            "color": [153,0,153],
+            "label": {
+                "en": "Acute care hospital and<br> Outpatient Health Services",
+                "fr": "Hôpital de soins intensifs et<br> Services de santé ambulatoire"
+            },
+            "value": ["==", ["get", "Type"], "6"]
+        }, {
+            "color": [128,177,211],
+            "label": {
+                "en": "Acute care hospital and<br> Residential care",
+                "fr": "Hôpital de soins intensifs et<br> Soins résidentiels"
+            },
+            "value": ["==", ["get", "Type"], "5"]
+        }, {
+            "color": [253,180,98],
+            "label": {
+                "en": "Outpatient Health Services and<br> Residential care",
+                "fr": "Services de santé ambulatoire et<br> Soins résidentiels"
+            },
+            "value": ["==", ["get", "Type"], "3"]
+        }, {
+            "color": [179,222,105],
+            "label": {
+                "en": "All three types",
+                "fr": "Les trois types"
+            },
+            "value": ["==", ["get", "Type"], "7"]
+        }, {
+            "label": {
+                "en": "Not specified",
+                "fr": "Non précisé"
+            },
+            "color": [252,205,229]
+        }],
+    "fields": [{
+            "id": "index",
+            "label": {
+                "en": "Index",
+                "fr": "Indice"
+            }
+        },{
+            "id": "source_facility_type",
+            "label": {
+                "en": "Facility type",
+                "fr": "Type d'installation"
+            }
+        }, {
+            "id": "facility_name",
+            "label": {
+                "en": "Facility name",
+                "fr": "Nom de l'installation"
+            }
+        }, {
+            "id": "full_address",
+            "label": {
+                "en": "Address",
+                "fr": "Addresse"
+            }
+        }, {
+            "id": "latitude",
+            "label": {
+                "en": "Latitude",
+                "fr": "Latitude"
+            }
+        }, {
+            "id": "longitude",
+            "label": {
+                "en": "Longitude",
+                "fr": "Longitude"
+            }
+        }
+    ]
+
+
+}
