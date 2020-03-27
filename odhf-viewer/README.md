@@ -2,10 +2,10 @@
 
 A Web Viewer for the Open Database of Health Facilities (ODHF).
 
-Link: https://csbp-cpse.github.io/odhf-viewer-prd/index-en.html<br>
+https://csbp-cpse.github.io/odhf-viewer/index-en.html
 
 ---------------------------------------------------------------------
 
 Une visionneuse pour les la base de données ouvertes des établissements de santé (BDES).
 
-Lien: https://csbp-cpse.github.io/odhf-viewer-prd/index-fr.html<br>
+https://csbp-cpse.github.io/odhf-viewer/index-fr.html
