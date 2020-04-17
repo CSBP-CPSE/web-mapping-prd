@@ -28,9 +28,9 @@
         "fr": "Sélectionner un élément de la liste pour aller à celui-ci."
     },
     "Download_Title": {
-        "en": "Download data (forthcoming)",
-        "fr": "Télécharger les données (à venir)"
-    },
+        "en": "Download data",
+        "fr": "Télécharger les données"
+    },    
     "Search_Placeholder": {
         "en": "Enter CSD name or ID ...",
         "fr": "Saisir le nom ou l'identifiant du DSR..."
