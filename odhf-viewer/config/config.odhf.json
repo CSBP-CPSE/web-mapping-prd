@@ -1,12 +1,12 @@
 {
     "id": "odhf",
-    "style": "mapbox://styles/deil-leid/ck93or0083c6f1imnc2oa1qk3",
+    "style": "mapbox://styles/deil-leid/ck93or0083c6f1imnc2oa1qk3", 
 
     "layers": [
         { "id": "odhf"},{ "id": "odhf-labels"}
     ],
     "title": {
-        "en": "Open Database of Health Facilities (ODHF)",
+        "en": "Open Database of Healthcare Facilities (ODHF)",
         "fr": "Base de Données Ouvertes des Établissement de Santé"
     },
 	"subtitle" : {
@@ -14,6 +14,10 @@
 		"fr" : "Version 1.0"
 	},
     "description": null,
+    "download": {
+        "en": "https://www.statcan.gc.ca/eng/lode/databases/odhf",
+        "fr": "https://www.statcan.gc.ca/fra/ecdo/bases-donnees/bdoes"
+    },
     "legend": [{
             "color": [255,0,0],
             "label": {
